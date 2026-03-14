@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://artrage-painting-software.github.io/.github/">
+  <a href="https://vandeejean.github.io/.github/artrage-painting-software">
     <img src="https://img.shields.io/badge/⬇️_Get_ArtRage-blue?style=for-the-badge&logo=github" alt="Get ArtRage"/>
   </a>
 </p>
